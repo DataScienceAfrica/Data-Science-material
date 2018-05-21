@@ -22,8 +22,26 @@ This repository contains files and links to helpful data science reference mater
 [Wes Mckinney](https://github.com/wesm) Pandas library author. His website: [http://wesmckinney.com/](http://wesmckinney.com/)
 
 [Ramnath Vaidyanathan](https://github.com/ramnathv) His main focus is on interactive visualisation with implementation in JavaScript and R. 
+
 [David Robinson](https://github.com/dgrtwo) Chief Data Scientist at **DataCamp**. Personal blog: [http://varianceexplained.org/].
 
 **Youtube Tutorials**
 
-[DataCamp channel]() Here you will find free videos on introduction to R, Python and Statistics.
+[DataCamp channel](https://www.youtube.com/channel/UC79Gv3mYp6zKiSwYemEik9A) Here you will find free videos on introduction to R, Python and Statistics.
+
+[Data to Insight course - Chris Wild](https://www.youtube.com/channel/UCElKp33-h_Yw0o8XATHllCg) Free course on steps to tranform your data into insight.
+
+[Intro to Data Science with R - Dave Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ)
+
+[Statistics knowledge with R - Mike Marin](https://www.youtube.com/user/marinstatlectures)
+
+**Online learning platforms**
+
+[DataCamp](https://www.datacamp.com/) Probably the best online data science learning platform. You get free intro courses to R, Python, git, shell scripting and SQL. 
+
+[Coursera](https://www.coursera.org/) Great resource fror Data science courses from reputable institutions.
+
+[Intro to paython for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2018/course/)
+
+[Udemy](https://www.udemy.com/)
+
